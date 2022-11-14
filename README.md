@@ -1,4 +1,4 @@
-# CMPE275_LAB
+# CMPE275_LAB2
 This repo contains all the code for research lab 2 for CMPE-275.
 
 # Contributors
