@@ -1,13 +1,13 @@
 # CMPE275_LAB2
 This repo contains all the code for research lab 2 for CMPE-275.
 
-# Contributors
+## Contributors: 
 
-1.Ravi Shanker Thadishetti
+1) Ravi Shanker Thadishetti
 
-2.Rajashekar Reddy Kommula
+2) Rajashekar Reddy Kommula
 
-3.Sakruthi Avirineni
+3) Sakruthi Avirineni
 
 ## Execution Steps:
 
