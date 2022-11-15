@@ -14,3 +14,5 @@ This repo contains all the code for research lab 2 for CMPE-275.
 1) brew install gcc
 2) gcc -fPIC -c Maximum_subarray.c
 3) gcc -shared -o shared_lib.so Maximum_subarray.o
+4) python3 -m Maximum_subarray_purepython.py
+5) python3 -m Maximum_subarrray_ctypepython.py
